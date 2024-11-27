@@ -14,7 +14,7 @@ header {
 }
 
 .chamada {
-    background: rgb(184, 156, 213);
+    background: rgb(83, 166, 204);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -22,11 +22,11 @@ header {
 }
 
 .chamada-texto {
-    margin-right: 5%;
+    margin-right: 20%;
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 67px;
 }
 
 p {
